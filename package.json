@@ -40,7 +40,7 @@
     "shelljs": "0.8.4",
     "travis-deploy-once": "5.0.11",
     "tslint": "5.17.0",
-    "typescript": "3.5.1"
+    "typescript": "3.5.3"
   },
   "dependencies": {
     "@test-ui/core": "^1.2.5",
