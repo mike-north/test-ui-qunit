@@ -37,7 +37,7 @@
     "libkit": "mike-north/libkit#ts-3",
     "qunit-decorators": "1.1.5",
     "semantic-release": "15.12.5",
-    "shelljs": "0.8.4",
+    "shelljs": "0.8.5",
     "travis-deploy-once": "5.0.11",
     "tslint": "5.17.0",
     "typescript": "3.5.3"
