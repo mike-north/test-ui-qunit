@@ -39,8 +39,8 @@
     "semantic-release": "15.12.5",
     "shelljs": "0.10.0",
     "travis-deploy-once": "5.0.11",
-    "tslint": "5.17.0",
-    "typescript": "3.5.3"
+    "tslint": "6.1.3",
+    "typescript": "5.9.3"
   },
   "dependencies": {
     "@test-ui/core": "^1.2.5",
